@@ -139,3 +139,7 @@ fetch(url, {
     .catch(error => console.error("Error:", error))
     .then(response => console.log("Success:", response));
 ```
+
+## 以上类容
+YieldRay/genshin-tool: 原神查询及签到
+https://github.com/yieldray/genshin-tool#readme
