@@ -1,4 +1,4 @@
-## 原作者是
+## 先说明本内容原作者是
 
 YieldRay/genshin-tool: 原神查询及签到
 
