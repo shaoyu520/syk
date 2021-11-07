@@ -1,3 +1,9 @@
+## 原作者是
+
+YieldRay/genshin-tool: 原神查询及签到
+
+https://github.com/yieldray/genshin-tool#readme
+
 # genshin-tool
 
 ## _请务必保护好自己的 cookie，不要在不受信任的地址输入自己的 cookie。泄露 cookie 可能使你的账号遭到风险！_
@@ -140,6 +146,3 @@ fetch(url, {
     .then(response => console.log("Success:", response));
 ```
 
-## 以上类容
-YieldRay/genshin-tool: 原神查询及签到
-https://github.com/yieldray/genshin-tool#readme
